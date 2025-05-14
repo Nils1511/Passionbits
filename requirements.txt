@@ -1,0 +1,6 @@
+selenium
+spacy
+webdriver-manager
+beautifulsoup4
+python-dotenv
+google-genai

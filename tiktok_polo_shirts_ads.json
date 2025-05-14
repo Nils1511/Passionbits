@@ -1,0 +1,4066 @@
+[
+    {
+        "adId": "1777354901187601",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iNjRkMzEzOWNmNmFlYjZkNDMwNjU1MTU1YWZjNDk0ZC82ODFmNDc0MC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/8693d6b9-6b6a-46b5-98df-f44144830b5b?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312793033ABC34536A5E6385&btag=e00088000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMs9xPhIEAwyEbgNLwfoCUs9AJBK7BAZzAWmAD",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777354890742818",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iNjRkMzEzOWNmNmFlYjZkNDMwNjU1MTU1YWZjNDk0ZC82ODFmNDc0MC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/3605c54b-e92a-4fec-a5e3-0af1de570394?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063127A13DB3794607875E907D&btag=e00088000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMs9xPhIEAwyEbgNLwfoCUs9AJBK7BAZzAWmAD",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370653418514",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iNjRkMzEzOWNmNmFlYjZkNDMwNjU1MTU1YWZjNDk0ZC82ODFmNDc0MC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/8132802a-1f82-4c43-9b66-9abd7c121053?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631277298F94E5A4F9A5CF65E&btag=e00088000&cc=13",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/cb6d5f6588f96da3dfe5d668abccc924~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394688&x-signature=fBO4gjpJHn7CcosioFw%2BNUjxz5M%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370644632594",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92NTgudGlrdG9rY2RuLmNvbS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/3985cc3f-5d1a-4edf-9cc3-a6bf961ed6f7?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312792616F8CB7F3795DBE4F&VExpiration=1746880320&VSignature=jhwOK3ovAGTAZ4mgf13dzA&btag=e00088000&cc=14",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/cb6d5f6588f96da3dfe5d668abccc924~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394688&x-signature=fBO4gjpJHn7CcosioFw%2BNUjxz5M%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1830186850715650",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1745366400000,
+        "adEndDate": 1745366400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "ES",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "ES",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "ES",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370647660545",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vYmE5NzM5NzY3YzUxOTkwYTQwMGFhNmY1NTM0NGVhNGMvNjgxZjQ3NDAvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9vTUFnb0lFRXpLaUJXQXd4d2hOSkFoUVc5ZlpMQ3lBQndEQW1SQy8=/a67f74a4-7557-4e90-820f-83e951add5f0?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063127DC0A9306C5474C62F497&btag=e00088000&cc=3",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/cb6d5f6588f96da3dfe5d668abccc924~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394688&x-signature=fBO4gjpJHn7CcosioFw%2BNUjxz5M%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370662967345",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858688/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9hY2U4NzUwZDQzYmY4YmQ1ZDhlMzBmMjE3MDc5OTQ5OS82ODFmNDc0MC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSW16aHdESVN5UVpkQkpFQUNSR29mQ3BnSlp3QU5XRFdBbEJFLw==/66f08997-3815-4199-80d4-02ff67fd65fa?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&br=1156&bt=578&cs=0&ds=1&ft=.NpOcInz7Th82_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2g6NGVnZDg0aTwzZWU6NUBpajlnZDY6ZjVmbjMzODYzNEAtLmA2Ml8yXl8xLi1fLmA1YSMxZjU2cjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631278A6CA08FF5843B5DCD02&btag=e00088000&cc=13",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/b8e34d1f897fa29f6d4b93dbb23dd418~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394688&x-signature=xdXMljT9HWUh0sZ4IN%2Fm6ZGVtPY%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370658523153",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858689/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS82ZDVjNGI3YTdkNGMwNGFjZDEwYmU2MjcxODU5NGYxZi82ODFmNDc0MS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSW16aHdESVN5UVpkQkpFQUNSR29mQ3BnSlp3QU5XRFdBbEJFLw==/16ac9ba7-cb72-4f84-9ad6-9acd9b239ac9?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&br=1156&bt=578&cs=0&ds=1&ft=.NpOcInz7Thl2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2g6NGVnZDg0aTwzZWU6NUBpajlnZDY6ZjVmbjMzODYzNEAtLmA2Ml8yXl8xLi1fLmA1YSMxZjU2cjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312821F82F32AFECBF5E2F1F&btag=e00088000&cc=13",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/b8e34d1f897fa29f6d4b93dbb23dd418~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394689&x-signature=rhjqbYluMziYfd6FYuDodP4DgGA%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777381048022065",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858689/video/aHR0cHM6Ly92NTgudGlrdG9rY2RuLmNvbS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/5d9a34fe-3dc5-45c2-9b35-3cd4758d2a2a?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Thl2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631279C6BE76AE04F3A5DF3C2&VExpiration=1746880321&VSignature=ZAFBo9b1i5P4rYSCQ7SMFA&btag=e00088000&cc=14",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMs9xPhIEAwyEbgNLwfoCUs9AJBK7BAZzAWmAD",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370662967313",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858689/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS83NjA3MDQwZWZmNmQ2NmE3ZDg3NDljOTI3ZjY0YzViYi82ODFmNDc0MS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29NQWdvSUVFektpQldBd3h3aE5KQWhRVzlmWkxDeUFCd0RBbVJDLw==/89dbbb77-9e57-4107-b726-96b6ed69d064?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Thl2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063128D8237C31C51FBF5D4A6F&btag=e00088000&cc=13",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/cb6d5f6588f96da3dfe5d668abccc924~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394689&x-signature=69tsL7c9ySqySfNDiM4igHUau1U%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1827675929212930",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858689/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9jNDE0MzZlNzMyMTY1NmM4OTBhNzI1ZGQzZGVkZjRiYi82ODFmNDczYy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/c9a04523-06a9-4683-b51a-bf1d801c4311?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thl2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631281E12251D1B61A05D492E&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742947200000,
+        "adEndDate": 1743379200000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "11K"
+            },
+            {
+                "region": "AT",
+                "impressions": "3K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827207736378401",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9jNDE0MzZlNzMyMTY1NmM4OTBhNzI1ZGQzZGVkZjRiYi82ODFmNDczYy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/cfb86998-3ec8-4fff-b7c2-acc61ae18f21?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thl2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312893033ABC34536A5E63B3&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742515200000,
+        "adEndDate": 1743292800000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "63K"
+            },
+            {
+                "region": "AT",
+                "impressions": "21K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827666554172529",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/5f45c3d6-2b25-49ee-af28-9bf33fcdc86b?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063129BCC62603D34ECC6358C7&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742947200000,
+        "adEndDate": 1743206400000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "AT",
+                "impressions": "4K"
+            },
+            {
+                "region": "DE",
+                "impressions": "13K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827795170223137",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/1d964dce-378d-4904-b3bc-57feb6ca713f?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312975CE6001F52E195DDFDF&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1743120000000,
+        "adEndDate": 1743465600000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "10K"
+            },
+            {
+                "region": "AT",
+                "impressions": "3K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827614157648994",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/3705eb57-2b7b-4817-abc6-6ee6bb05fb9f?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063129DC0A9306C5474C62F4B4&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742947200000,
+        "adEndDate": 1743292800000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "AT",
+                "impressions": "5K"
+            },
+            {
+                "region": "DE",
+                "impressions": "17K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827670987533442",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/172d06cf-6e20-4df6-b5e0-d01ed53e23b5?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631299E0314EA33467861558B&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742947200000,
+        "adEndDate": 1743120000000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "1K-10K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "1K-10K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "7K"
+            },
+            {
+                "region": "AT",
+                "impressions": "2K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827571203256418",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/ff01abd3-92b5-4f94-b416-5e6209e77d0c?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063129C01E1BE230C5105D035F&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742860800000,
+        "adEndDate": 1742947200000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "1K-10K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "1K-10K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "4K"
+            },
+            {
+                "region": "AT",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827491914484913",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/d523eed5-0e84-4953-9a0a-13795fa483d1?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312961BA30BC634BB15CFF6E&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742774400000,
+        "adEndDate": 1743033600000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "1K-10K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "1K-10K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "6K"
+            },
+            {
+                "region": "AT",
+                "impressions": "2K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827438157449250",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9kNjc5ZThkMWM3ZTliNjgyZTUxMjc1YjZmNjk2OTYyNS82ODFmNDczZC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/eea9f4a8-977b-422f-bf71-c68b88a1ce32?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006312912CC87C9658A805E6370&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742774400000,
+        "adEndDate": 1742947200000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "1K-10K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "1K-10K",
+        "targetingByLocation": [
+            {
+                "region": "AT",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "3K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827438157255729",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858690/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vNGMzMzgwMjE3MjViYWIxM2UyNmUyMmE5ZDYwYjVmODAvNjgxZjQ3M2QvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9va0hBOUJBUWt5aUJMRThJejNBRjg2WkNaZEl2RFliRDFYaVU2Lw==/c93b58f0-337a-46de-9a51-35e4c1d49513?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631298A6CA08FF5843B5DCD36&btag=e000b8000&cc=3",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742774400000,
+        "adEndDate": 1742947200000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "10K-100K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "10K-100K",
+        "targetingByLocation": [
+            {
+                "region": "AT",
+                "impressions": "2K"
+            },
+            {
+                "region": "DE",
+                "impressions": "12K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1827575628428402",
+        "adTitle": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858691/video/aHR0cHM6Ly92NTgudGlrdG9rY2RuLmNvbS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSEE5QkFRa3lpQkxFOEl6M0FGODZaQ1pkSXZEWWJEMVhpVTYv/b5810b8e-d797-4596-a2fb-c0a32e9699e6?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1150&bt=575&cs=0&ds=1&ft=.NpOcInz7Thh2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NGlpaDxkNzY5NTo4N2VoaEBpMzU7NXY5cnZveTMzODYzNEAwMjYwLWEyNV4xYTZeLS8xYSNmMzNxMmRra2JgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063129680DA486ED086C5E72E0&VExpiration=1746880317&VSignature=cicOcrTG5NlfD6cDLvkJ_Q&btag=e000b8000&cc=14",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/okBkEYDAA8dIxVB1hA6XC7AUi4Zvy8Yybi9Iz",
+        "adStartDate": 1742860800000,
+        "adEndDate": 1742947200000,
+        "advertiserId": "7195865456476176385",
+        "advertiserName": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adImpressions": "1K-10K",
+        "advertiserPaidForBy": "THREE MOSQUETS UNTERNEHMERGESELLSCHAFT (HAFTUNGSBESCHRÄNKT)",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "1K-10K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "6K"
+            },
+            {
+                "region": "AT",
+                "impressions": "2K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "AT",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "AT",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816314059356161",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1821744837367857",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858691/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iODcyMjJhYTBiNjI1YmY2MTFhZDBlOTY4ZWJlYWI5OC82ODFmNDczYS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29RM0VnRWVQTmNMSW5BdGZMdk9paTcxOVRpbUREQkY4UWdPQjBXLw==/1654c68a-3753-484b-97cc-e978bba2c9bc?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=698&bt=349&cs=0&ds=1&ft=.NpOcInz7Thr2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OjlpPDpkNWVmM2doZTg1M0BpMzVnN3g5cml1eDMzODYzNEAvXmJhYV5jNS4xNTYtMDI1YSM0YW1kMmQ0YjJgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006313021F82F32AFECBF5E2F50&btag=e000b8000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0nafADiOtyB0FNLngi8cAQDgEULBTtIwhe7EW",
+        "adStartDate": 1737331200000,
+        "adEndDate": 1737331200000,
+        "advertiserId": "0",
+        "advertiserName": "",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "Graurss G",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "NL",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "NL",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "NL",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816308596932641",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816308598891698",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816319943615554",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816308580856834",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816314054847665",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1821736613299297",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858692/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS85Njk0YmU5NGVhYWFmNzlmNmM1MjdjYjM5MzUzMWZmYi82ODFmNDc0Yy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29ZN0xtYzdXeklvQkJKQTltQXhpakswaUVJQlE2dEFuZnd2RXBILw==/480f86d0-ad14-4d55-81ce-ff9e02ce84aa?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=452&bt=226&cs=0&ds=1&ft=.NpOcInz7Thr2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=ZGVpOWg6NjkzZjs3aDU3Z0BpanU1NHc5cnlzeDMzODYzNEBiXmExYjA1XjUxNl4tNF41YSNxY21xMmRraDJgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063130DC0A9306C5474C62F4DB&btag=e00088000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/7a10742ae65b3ba9d97762ef9dd37fdb",
+        "adStartDate": 1737331200000,
+        "adEndDate": 1737331200000,
+        "advertiserId": "0",
+        "advertiserName": "",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "Graurss G",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "NL",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "NL",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "NL",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816314042803266",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816302001728673",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086350324753",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816302013827074",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521939962882",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1816301999029362",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1732147200000,
+        "adEndDate": 1732147200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086348851234",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086346597426",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086344762418",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086348263442",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086337995793",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086348706865",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086337982481",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1801167489108001",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858694/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vZjdlNDViODY5OTg5ZDkxYmMxZTkzMGQzNzI2YjdkNjcvNjgxZjQ3MmQvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9vOHdKUEl3cnpHQXA5Y1ZiQTlpaXdIQkpCTUFtaVNxRUlaZjNvTi8=/0401d0e9-16b6-4344-a05e-527cb2e67efd?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1058&bt=529&cs=0&ds=1&ft=.NpOcInz7ThQ2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=Mzg2aGc1NWVpOjNmODo2aEBpanZxdnc5cjd0czMzODYzNEAzLjMtLTEuXi4xLTZgLjExYSNpYi9gMmRzNGRgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631327B56DE83F2E14F5E35FD&btag=e000b0000&cc=3",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYN5OBTrA6LQ5B6mWaQFEOuYIBgf5fHhmgDoDz",
+        "adStartDate": 1717718400000,
+        "adEndDate": 1717718400000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801129002036273",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858694/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS8zMTRjYjQzYTU5NTRjZWFlZTNlZTJkN2VkNWE3ODU4ZS82ODFmNDcyZi92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rdGlubmp1SXk3Qm82TUFjaEZCZkFobTltQWlRQ013QnRwekVuLw==/0e6d95b4-1dd8-441d-983f-dcefe68024cf?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1666&bt=833&cs=0&ds=1&ft=.NpOcInz7ThQ2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2YzN2RoMzxpOmZkNzs7OkBpanZ4PHU5cm1zczMzODYzNEAyNTY1Ni9jX2MxMzUuNF42YSNkM3BtMmRjcWRgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063132A13DB3794607875E915D&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4n9EohymBAtnnxw1Mi7AmzBZBjwcAsMInfThi",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801076344980513",
+        "adTitle": "湖南千岁忧网络科技有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858694/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iMzNhMmJmNGE3NGZiNGQ4ZDE4NzE2OTViNjViNWVhMy82ODFmNDczMC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29VS3lzMHhOQ0ROeDE2VHFDZk9mQTJYQWVRdGRnWnpmTVFBQWVILw==/ce5af2bc-23fb-4079-805a-b9be93aa56bb?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1442&bt=721&cs=0&ds=1&ft=.NpOcInz7ThQ2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=NDY6aTUzNTc8NDs1ODo4O0BpM2tveXU5cmRrczMzODYzNEA1Nl8uMjEyNS0xNV4vMzI0YSNuY3NhMmRra2RgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006313219796CCF97B49A5E7DBA&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQfN9BXoMrDwej6CCtLIAdGVGwAbME4QIvevgj",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7320176848078454785",
+        "advertiserName": "湖南千岁忧网络科技有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "LINGTOK LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086337754161",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086339051537",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1801114234974225",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858694/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS80MDIxZTgzNTVjYmUyNmY0ZjZkYjU2MmRkY2MwMzdmMC82ODFmNDczMy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jT2JKMFBER0llUGFiNlpBWExnZ0hiRnRDZXhNRERRSUtBZkd3Lw==/89493186-da77-4ce9-975d-a6400afe3442?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1970&bt=985&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OTZnNWg4Nzc1aTg8OTY7NEBpanBwaXg5cjt0czMzODYzNEAwMTRhXmJgNWIxLjAwNS8uYSNqa3FkMmRrM2RgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631337B56DE83F2E14F5E3615&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0YAtBEazSDsNWg2MB2rFKhBf9QANmIDotEifh",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801114244535345",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NTgudGlrdG9rY2RuLmNvbS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL284d0pQSXdyekdBcDljVmJBOWlpd0hCSkJNQW1pU3FFSVpmM29OLw==/58f89087-bf3c-4afd-86ac-653d9615e1d0?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1058&bt=529&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=Mzg2aGc1NWVpOjNmODo2aEBpanZxdnc5cjd0czMzODYzNEAzLjMtLTEuXi4xLTZgLjExYSNpYi9gMmRzNGRgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631336398127097295F5FF44D&VExpiration=1746880302&VSignature=87kTmOyF5K4XwA84jbRJJg&btag=e000b0000&cc=14",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYN5OBTrA6LQ5B6mWaQFEOuYIBgf5fHhmgDoDz",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801128678674482",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vN2QyNGE3M2Y5YTQ2ODZjMzU3NzMxNzVjMDI4ZDZlMDAvNjgxZjQ3MzMvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9vY09iSjBQREdJZVBhYjZaQVhMZ2dIYkZ0Q2V4TUREUUlLQWZHdy8=/c633cb1a-d3de-4f4e-a218-a0d1c52c4ec0?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1970&bt=985&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OTZnNWg4Nzc1aTg8OTY7NEBpanBwaXg5cjt0czMzODYzNEAwMTRhXmJgNWIxLjAwNS8uYSNqa3FkMmRrM2RgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006313354CDD6E0602E7E5EC545&btag=e000b0000&cc=3",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0YAtBEazSDsNWg2MB2rFKhBf9QANmIDotEifh",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801113646980130",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS80NDUyNjljNTI0MTUxODA5OTY5YWQ2YzBiODhmZDk1YS82ODFmNDczMC92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rdGlubmp1SXk3Qm82TUFjaEZCZkFobTltQWlRQ013QnRwekVuLw==/19937db4-1e5a-4994-bdac-bf10e958e813?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1666&bt=833&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2YzN2RoMzxpOmZkNzs7OkBpanZ4PHU5cm1zczMzODYzNEAyNTY1Ni9jX2MxMzUuNF42YSNkM3BtMmRjcWRgLS1kMC1zcw%3D%3D&vvpl=1&l=2025051006313392616F8CB7F3795DBEFE&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4n9EohymBAtnnxw1Mi7AmzBZBjwcAsMInfThi",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801114234969137",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vNTViMzUyZjIwMWUwNDlhMjFmMGJiOTRlZGViMmIzNGMvNjgxZjQ3MzEvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9va3Rpbm5qdUl5N0JvNk1BY2hGQmZBaG05bUFpUUNNd0J0cHpFbi8=/89ef8f96-4d84-40f3-beec-63965e30a2c7?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1666&bt=833&cs=0&ds=1&ft=.NpOcInz7ThS2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2YzN2RoMzxpOmZkNzs7OkBpanZ4PHU5cm1zczMzODYzNEAyNTY1Ni9jX2MxMzUuNF42YSNkM3BtMmRjcWRgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063133EFB3FCB90577195F0EE7&btag=e000b0000&cc=3",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4n9EohymBAtnnxw1Mi7AmzBZBjwcAsMInfThi",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370653679665",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9jYzA1NjgxOGZlYTA5MmI5ZmQ0NjgzYTIzYTBlNWE1Yy82ODFmNDc0Ni92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSW16aHdESVN5UVpkQkpFQUNSR29mQ3BnSlp3QU5XRFdBbEJFLw==/7711d383-6947-4164-88c2-1f7d41966213?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&br=1156&bt=578&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2g6NGVnZDg0aTwzZWU6NUBpajlnZDY6ZjVmbjMzODYzNEAtLmA2Ml8yXl8xLi1fLmA1YSMxZjU2cjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063133C01E1BE230C5105D03E8&btag=e00088000&cc=13",
+        "adVideoCover": "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/v0201/b8e34d1f897fa29f6d4b93dbb23dd418~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394694&x-signature=Hl%2F1QThU3fVYZcRC0dCSghruJGY%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370642912274",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS85ZmQ0MjY5NjNlYmVkNzI1ZTI3ZDM4NWVmZTlkYzQ0Ny82ODFmNDc0Ny92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rSW16aHdESVN5UVpkQkpFQUNSR29mQ3BnSlp3QU5XRFdBbEJFLw==/f953ba5a-fe1e-4974-a8ca-dbd41a9f9571?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&br=1156&bt=578&cs=0&ds=1&ft=.NpOcInz7ThS2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2g6NGVnZDg0aTwzZWU6NUBpajlnZDY6ZjVmbjMzODYzNEAtLmA2Ml8yXl8xLi1fLmA1YSMxZjU2cjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631349E0314EA33467861564E&btag=e00088000&cc=13",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/b8e34d1f897fa29f6d4b93dbb23dd418~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394695&x-signature=6jgoz4E1C%2FuQKGW0RD4wlSpUYPE%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801167489103873",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS80MDIxZTgzNTVjYmUyNmY0ZjZkYjU2MmRkY2MwMzdmMC82ODFmNDczMy92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29jT2JKMFBER0llUGFiNlpBWExnZ0hiRnRDZXhNRERRSUtBZkd3Lw==/4905b7a7-b237-4bf2-9cc1-7c0a99ed812a?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1970&bt=985&cs=0&ds=1&ft=.NpOcInz7ThP2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OTZnNWg4Nzc1aTg8OTY7NEBpanBwaXg5cjt0czMzODYzNEAwMTRhXmJgNWIxLjAwNS8uYSNqa3FkMmRrM2RgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631332D1AAF4AF1BA925D9F93&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0YAtBEazSDsNWg2MB2rFKhBf9QANmIDotEifh",
+        "adStartDate": 1717718400000,
+        "adEndDate": 1717718400000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801113648129057",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iMDNmYzcwMWExMzI1ODliMzliZTNjNmVhOTNhODBlNS82ODFmNDcyZi92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL284d0pQSXdyekdBcDljVmJBOWlpd0hCSkJNQW1pU3FFSVpmM29OLw==/11a4a787-f401-42b9-b515-0601f92016af?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1058&bt=529&cs=0&ds=1&ft=.NpOcInz7ThS2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=Mzg2aGc1NWVpOjNmODo2aEBpanZxdnc5cjd0czMzODYzNEAzLjMtLTEuXi4xLTZgLjExYSNpYi9gMmRzNGRgLS1kMC1zcw%3D%3D&vvpl=1&l=20250510063134EA8D2363C943E85CEC05&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYN5OBTrA6LQ5B6mWaQFEOuYIBgf5fHhmgDoDz",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801128678669330",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92NzcudGlrdG9rY2RuLmNvbS9iNWRiMWRjODY4NTA3Y2Q4NzZhZjAwYzRlYWIyNDg2My82ODFmNDczMS92aWRlby90b3MvYWxpc2cvdG9zLWFsaXNnLXZlLTAwNTFjMDAxLXNnL29rdGlubmp1SXk3Qm82TUFjaEZCZkFobTltQWlRQ013QnRwekVuLw==/8503d731-dca9-4efb-906b-6c43827fe86a?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1666&bt=833&cs=0&ds=1&ft=.NpOcInz7ThS2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=O2YzN2RoMzxpOmZkNzs7OkBpanZ4PHU5cm1zczMzODYzNEAyNTY1Ni9jX2MxMzUuNF42YSNkM3BtMmRjcWRgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631342D1AAF4AF1BA925D9FAA&btag=e000b0000&cc=13",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4n9EohymBAtnnxw1Mi7AmzBZBjwcAsMInfThi",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1801113646986242",
+        "adTitle": "上海亦烨工贸有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858695/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vNzY4ZjIwMTY0YjI3M2Q0YTYzZjRkNGQxODIyMjAwZjIvNjgxZjQ3MzQvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9vY09iSjBQREdJZVBhYjZaQVhMZ2dIYkZ0Q2V4TUREUUlLQWZHdy8=/5574e335-5fd6-4787-a136-c70126f7b4c4?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1970&bt=985&cs=0&ds=1&ft=.NpOcInz7ThS2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OTZnNWg4Nzc1aTg8OTY7NEBpanBwaXg5cjt0czMzODYzNEAwMTRhXmJgNWIxLjAwNS8uYSNqa3FkMmRrM2RgLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631344D1AB27F9B06DA5E7275&btag=e000b0000&cc=3",
+        "adVideoCover": "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0YAtBEazSDsNWg2MB2rFKhBf9QANmIDotEifh",
+        "adStartDate": 1717632000000,
+        "adEndDate": 1717632000000,
+        "advertiserId": "7369527185578704912",
+        "advertiserName": "上海亦烨工贸有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "NEWRATE LIMITED",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1777370642911282",
+        "adTitle": "上海洋云贸易有限公司",
+        "adType": "2",
+        "adSpent": "",
+        "adVideoUrl": "https://library.tiktok.com/api/v1/cdn/1746858697/video/aHR0cHM6Ly92MTZtLnRpa3Rva2Nkbi5jb20vZGVjN2UwMmVmYjY3NjhhNmNiNzEwNTlkNmE4ODQxZDEvNjgxZjQ3NDkvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS0wMDUxYzAwMS1zZy9vTUFnb0lFRXpLaUJXQXd4d2hOSkFoUVc5ZlpMQ3lBQndEQW1SQy8=/dcac907b-3fb8-46e9-bc5f-a97df57fef5c?a=475769&bti=PDU2NmYwMy86&ch=0&cr=0&dr=1&cd=0%7C0%7C0%7C0&cv=1&br=1190&bt=595&cs=0&ds=1&ft=.NpOcInz7Thv2_cKXq8Zmo&mime_type=video_mp4&qs=0&rc=OzZpMzVmODRoZjQ7ZDtpZEBpM2tlbDY6ZjVmbjMzODYzNEAzYzUwYmM0Ni0xYjExYzU1YSMtb21gcjQwLi5gLS1kMC1zcw%3D%3D&vvpl=1&l=202505100631364D1AB27F9B06DA5E72CC&btag=e00088000&cc=3",
+        "adVideoCover": "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/cb6d5f6588f96da3dfe5d668abccc924~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1778394697&x-signature=GamAvCFyOy0uxb%2FJ1ZkQiLHWb6E%3D",
+        "adStartDate": 1694995200000,
+        "adEndDate": 1694995200000,
+        "advertiserId": "7202899820799852546",
+        "advertiserName": "上海洋云贸易有限公司",
+        "adImpressions": "0-1K",
+        "advertiserPaidForBy": "HONG KONG CIFNEWS LIMITED",
+        "adTotalRegions": 2,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": false,
+                "male": true,
+                "unknown": false
+            },
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1811610292145218",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727654400000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521950281745",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521947195442",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521950510130",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521938606113",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521947683905",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521940941826",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521946301441",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521949818882",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719799427090",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726963200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811610307073057",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727654400000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719799426082",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726963200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719797502001",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726963200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719797501985",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726963200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1811521941160001",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1727568000000,
+        "adEndDate": 1727654400000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719799427074",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719799426098",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719797502993",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719805258801",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726963200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086351749170",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719805259777",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810719805258785",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1810413741409329",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726531200000,
+        "adEndDate": 1726531200000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": false,
+                "male": true,
+                "unknown": false
+            }
+        ]
+    },
+    {
+        "adId": "1810719797502977",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1726876800000,
+        "adEndDate": 1726876800000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 3,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "FR",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            },
+            {
+                "region": "DE",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "FR",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            },
+            {
+                "region": "DE",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "FR",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            },
+            {
+                "region": "DE",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    },
+    {
+        "adId": "1804086350536737",
+        "adTitle": "",
+        "adType": "2",
+        "adSpent": "",
+        "adStartDate": 1720483200000,
+        "adEndDate": 1720569600000,
+        "adImpressions": "0-1K",
+        "adTotalRegions": 1,
+        "adEstimatedAudience": "0-1K",
+        "targetingByLocation": [
+            {
+                "region": "GB",
+                "impressions": "0-1K"
+            }
+        ],
+        "targetingByAge": [
+            {
+                "region": "GB",
+                "13-17": false,
+                "18-24": true,
+                "25-34": true,
+                "35-44": true,
+                "45-54": true,
+                "55+": true
+            }
+        ],
+        "targetingByGender": [
+            {
+                "region": "GB",
+                "female": true,
+                "male": true,
+                "unknown": true
+            }
+        ]
+    }
+]
