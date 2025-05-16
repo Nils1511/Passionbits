@@ -1,0 +1,42 @@
+Levi Strauss & Co.
+Wrangler
+Lee
+Madewell
+Gap Inc.
+American Eagle Outfitters
+Abercrombie & Fitch
+Old Navy
+Uniqlo
+H&M
+Zara
+Topshop
+ASOS
+Everlane
+Citizens of Humanity
+Paige
+AG Jeans
+Frame
+Mother Denim
+Good American
+
+
+  competitors = [
+        ('Ralph Lauren', 'https://www.facebook.com/RalphLauren'),
+        ('Lacoste', 'https://www.facebook.com/Lacoste'),
+        ('Tommy Hilfiger', 'https://www.facebook.com/TommyHilfiger'),
+        ('Polo Assn.', 'https://www.facebook.com/USPOLOASSN'),
+        ('Nike', 'https://www.facebook.com/nike'),
+        ('Adidas', 'https://www.facebook.com/adidas'),
+        ('Under Armour', 'https://www.facebook.com/UnderArmour'),
+        ('J.Crew', 'https://www.facebook.com/jcrew'),
+        ('Banana Republic', 'https://www.facebook.com/BananaRepublic'),
+        ('Old Navy', 'https://www.facebook.com/OldNavy'),
+        ('Gap', 'https://www.facebook.com/gap'),
+        ("Lands' End", 'https://www.facebook.com/landsend'),
+        ('Brooks Brothers', 'https://www.facebook.com/BrooksBrothers'),
+        ('Amazon Essentials', 'N/A'),
+        ('Hanes', 'https://www.facebook.com/hanes'),
+        ('IZOD', 'https://www.facebook.com/IZOD'),
+        ('Target', 'https://www.facebook.com/target'),
+        ('Walmart', 'https://www.facebook.com/Walmart'),
+    ]
